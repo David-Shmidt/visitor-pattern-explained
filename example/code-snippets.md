@@ -2,11 +2,12 @@ Here are some code examples:
 
 Visitor interface:
 
-  internal interface IVisitor
-  {
-      void visit(Manager manager);
-      void visit(Developer developer);
-  }
+  
+    internal interface IVisitor
+    {
+        void visit(Manager manager);
+        void visit(Developer developer);
+    }
 
 Concrete Visitor:
       
