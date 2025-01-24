@@ -1,3 +1,5 @@
+Here are some code examples:
+
 Visitor interface:
 
   internal interface IVisitor
